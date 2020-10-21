@@ -1,0 +1,31 @@
+{
+    "startAt": null,
+    "nextServiceList": [{
+        "nextServiceName": "DataCleansingOf3dPointCrowdArea",
+        "nextDirectoryOfService": "/home/latona/commet/Runtime/data-cleansing-of-3d-point-crowd-arena",
+        "nextRuntime": {
+            "type": "python",
+            "run": "main.py"
+        },
+        "nextServiceDevice": "comet"
+    }],
+    "priorSuccess": true,
+    "priorServiceName": "",
+    "priorDirectoryOfService": "",
+    "priorRuntime": {
+        "type": "",
+        "run": ""
+    },
+    "transactionCodes": {
+        "transactionCode0": "10dfb315d6db316fe836cf2851eb5270e0ccf430b719108db3134b5",
+        "transactionCode1": "",
+        "transactionCode2": ""
+    },
+    "outputHeader": {
+        "type": "",
+        "content": ""
+    },
+    "outputFileName": "",
+    "finishAt": null,
+    "metadata": []
+}
